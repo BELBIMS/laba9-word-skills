@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "laba9 word skills/1.0.0": {
+        "runtime": {
+          "laba9 word skills.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laba9 word skills/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
